@@ -1,3 +1,6 @@
+<h1> I am making github simulator with the beautiful CSS/JS skills of TotomInc that I myself do not posess.</h1>
+
+
 <h1>totominc.github.io</h1>
 <h4><b>It's the official repo for all my web-projects, like incremental-games.</b></h4>
 
